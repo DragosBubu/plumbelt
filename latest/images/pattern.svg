@@ -1,0 +1,54 @@
+<svg version="1.1" x="0px" y="0px" width="200px" height="200px" cl:seamlessversion="2.0" cl:fivecolor="true" viewBox="0 0 200 200" cl:filetype="pattern" cl:clientversion="1.1.2" cl:target="air" cl:c1="15921906" cl:c2="15592941" cl:c3="6710886" cl:c4="3355443" cl:c5="0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cl="http://www.colourlovers.com/">
+  <defs>
+    <clipPath id="canvasClip">
+      <rect x="0" y="0" width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="wrapper" style="clip-path:url(#canvasClip);">
+    <rect x="0" y="0" width="200" height="200" fill="#F2F2F2" id="background"/>
+    <g cl:shapetype="line" fill="#EDEDED" stroke="#EDEDED" cl:layername="TGluZSAy">
+      <g transform="matrix(1 0 0 1 28.55 26.35)">
+        <path d="M-29 -26&#xA;Q18.75 21.75 66.55 69.55" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 228.6 26.35)">
+        <path d="M-29 -26&#xA;Q18.75 21.75 66.55 69.55" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+    </g>
+    <g cl:shapetype="line" fill="#EDEDED" stroke="#EDEDED" cl:layername="TGluZSAyIChjb3B5KQ==">
+      <g transform="matrix(1 0 0 1 4.4 164.3)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 204.4 164.3)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 4.4 -35.65)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 204.4 -35.65)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+    </g>
+    <g cl:shapetype="line" fill="#EDEDED" stroke="#EDEDED" cl:layername="TGluZSAyIChjb3B5IDIp">
+      <g transform="matrix(1 0 0 1 163.3 -5.25)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 -36.75 -5.25)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 163.3 194.8)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 -36.75 194.8)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+    </g>
+    <g cl:shapetype="line" fill="#EDEDED" stroke="#EDEDED" cl:layername="TGluZSAyIChjb3B5IDMp">
+      <g transform="matrix(1 0 0 1 -17.25 49.1)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+      <g transform="matrix(1 0 0 1 182.8 49.1)">
+        <path d="M-29 -26&#xA;Q18.65 21.65 66.5 69.5" fill="none" stroke-width="2" cl:linestyleid="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
